@@ -1,0 +1,11 @@
+{
+  "name": "jeet",
+  "description": "A light, semantic, responsive, CSS framework built from the best parts.",
+  "homepage": "https://github.com/meloncon",
+  "author": "Matt Meloncon  (https://twitter.com/MattMeloncon)",
+  "version": "0.0.1",
+  "git": "tbd",
+  "packages": {
+  	"stylus": {}
+  }
+}

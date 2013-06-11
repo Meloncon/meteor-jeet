@@ -4,7 +4,7 @@
   "homepage": "https://github.com/meloncon",
   "author": "Matt Meloncon  (https://twitter.com/MattMeloncon)",
   "version": "0.0.1",
-  "git": "tbd",
+  "git": "https://github.com/Meloncon/meteor-jeet.git",
   "packages": {
   	"stylus": {}
   }
